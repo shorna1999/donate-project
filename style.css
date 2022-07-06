@@ -1,0 +1,181 @@
+*{ 
+margin: 0;
+padding: 0;
+}
+body{
+font-family: 'Gentium Book Plus', serif;
+font-family: 'Gideon Roman', cursive;
+font-family: 'Merriweather', serif;
+
+}
+.img-section-1{
+    background: url(pic-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+    height: 500px;
+}
+.first-section-h1{
+    padding-top: 180px;
+    padding-left: 280px;
+    font-size: 52px;
+    color:#ffffff;
+}
+.let-help{
+    margin-left: 200px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.first-section-para{
+    text-align: center;
+    color:#ffffff;
+    margin-left: 60px;
+    margin-bottom: 40px;
+}
+.first-section-a{
+    display: inline;
+    margin-left: 500px;
+    padding:15px 15px;
+    background-color:darkblue;
+   border-radius: 10px;
+}
+.section-2-h1{
+    text-align: center;
+    margin: 30px;
+}
+.section-2-para2{
+    text-align: center;
+    margin: 40px 150px;
+}
+.taka-2{
+    padding: 20px 20px;
+    border-radius: 5px;
+    background-color:rgb(225, 225, 233);
+    margin-left: 10px;
+    margin-right:10px
+    text-align: center;
+}
+#taka-2{
+    padding: 20px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color:rgb(25, 25, 129);
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+.taka{
+    display: flex;
+    justify-content:center;
+}
+#acount{
+    border: 1px solid white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 490px;
+}
+.new{
+    border: 1px solid black;
+    margin: 8px 200px;
+}
+.button-1{
+    margin-top: 20px;
+    margin-left: 500px;
+    padding: 15px 20px;
+    color: #ffffff;
+    background-color: darkblue;
+    border-radius: 10px;
+}
+.section-3-h1{
+    margin:20px;
+    margin-left: 470px;
+    font-size: 25px;
+}
+.section-3-para{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.donate-plan-1{
+    margin-left: 150px;
+    width: 200px;
+    height: 300px;
+    padding: 25px 20px;
+    background-color: rgb(231, 243, 249);
+}
+.donate-plan-2{
+    margin-left: 30px;
+    width: 200px;
+    height: 300px;
+    padding: 25px 20px;
+    background-color:rgb(238, 213, 217);
+}
+.donate-plan-3{
+    margin-left: 30px;
+    width: 200px;
+    height: 300px;
+    padding: 25px 20px;
+    background-color: antiquewhite;
+}
+.section-3-donate-plan{
+    display: flex;
+    
+} 
+.section-4-div{
+    width:400px ;
+}
+.button-2{
+    margin-top: 30px;
+    padding: 15px 20px;
+    color: #ffffff;
+    background-color: darkblue;
+    border-radius: 10px;
+}
+.button-3{
+    margin-top: 20px;
+    padding: 15px 20px;
+    color: #ffffff;
+    background-color: darkblue;
+    border-radius: 10px;
+}
+
+.section-4-5{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.section-6-div{
+    text-align: center;
+}
+#email{
+    padding: 15px 20px;
+    margin-right: -3px;
+    color: black;
+    background-color: rgb(230, 203, 203);
+    border-radius: 10px;
+}
+#from{
+    width: 550px;
+    height: 125px;
+    margin-left: 300px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+footer{
+font-family: 'Gentium Book Plus', serif;
+font-family: 'Gideon Roman', cursive;
+font-family: 'Oleo Script', cursive;
+}
+.footer-div{
+    margin-top: 20px;
+    height: 120px;
+    color: rgb(89, 89, 158);
+    background-color: black;
+    text-align: center;
+}
+.footer-h1{
+    padding-top: 25px;
+}
